@@ -74,7 +74,7 @@ footer a {
   }
   
   .hero {
-    background-image: url("./hero-bg.jpeg");
+    background-image: url("./images/hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
